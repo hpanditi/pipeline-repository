@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>React Application - Hemanth Panditi</p>
         <br />
-        <p>One sentence to serve as a placeholder.</p>
+        <p>One sentence to serve as a placeholder...</p>
       </header>
     </div>
   );
